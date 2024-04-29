@@ -1,3 +1,5 @@
 # RSA-prime-factorization
-
-"Cracking" RSA encryption utilizing Shor's algorithm in Qiskit 1.0.
+Attacking RSA encryption utilizing different methods:
+- Shor's algorithm in Qiskit 1.0
+- Chinese Remainder Theorem
+- Lattice reduction techniques
